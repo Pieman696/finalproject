@@ -1,3 +1,12 @@
+This capstone project named Chuck Norris Joke by unitlizing API provided to choose building React programming.
+Chuck Norris jokes API to create a hilarious joke React App website.
+
+How to Use:
+You can choose catagory what type of joke you want to random generate the joke display if you just click the button
+with out selecting the category it will generate the button randomly generate the button.
+
+Enjoys and have fun with it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
